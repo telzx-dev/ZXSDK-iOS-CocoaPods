@@ -1,6 +1,6 @@
 {
   "name": "ZXSDK",
-  "version": "1.2.1.0",
+  "version": "3.0.0",
   "summary": "ZXSDK CocoaPods集成库",
   "license": {
     "type": "MIT"
@@ -11,7 +11,7 @@
   "homepage": "https://github.com/ZXSDK/ZXSDK-iOS-CocoaPods",
   "source": {
     "git": "https://github.com/ZXSDK/ZXSDK-iOS-CocoaPods.git",
-    "tag": "1.2.1.0"
+    "tag": "3.0.0"
   },
   "static_framework": true,
   "platforms": {
